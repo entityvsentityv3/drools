@@ -1,13 +1,13 @@
-package com.sample.drools;
+package com.jskool.ruleengine;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DroolsApplication {
+public class RuleengineApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DroolsApplication.class, args);
+		SpringApplication.run(RuleengineApplication.class, args);
 	}
 
 }
